@@ -1,6 +1,5 @@
 # SalesTaxProblem
-Written in python
-Just hit python3 main.py in console
+Written in python. Just hit python3 main.py in console
 
 
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
